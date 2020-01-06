@@ -20,6 +20,6 @@ The assembly language used in this program is defined in the Project Definition 
 To run the assembler, provide the assembly files names (without the ".as" suffix) as parameters and run the program. The following code will run the program on the files "file1.as", "file2.as", "file3.as":
 
 ```
-./assembler file1 file2 file3
+./my_assembler file1 file2 file3
 ```
 
