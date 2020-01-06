@@ -23,3 +23,4 @@ To run the assembler, provide the assembly files names (without the ".as" suffix
 ./my_assembler file1 file2 file3
 ```
 
+More details about the program can be found in Hebrew in the Project Definition.
