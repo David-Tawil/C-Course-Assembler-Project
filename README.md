@@ -13,7 +13,7 @@ The entry file (.ent) which contains the encoding of the variables that are used
 
 The external file (.ext) which contains the external variables that are used by the assembly code commands and the respective locations of the commands.
 
-The assembly language used in this program is defined in the Project Definition document which can be found in the repository in Hebrew. The project is written in C in the ANSI C standard. The encoding of the output is done in hexadecimal base.
+The assembly language used in this program is defined in the Project Definition document which can be found in the repository in Hebrew. The project is written in C in the ANSI C standard. The encoding of the output is done in base64.
 
 
 ## Usage
